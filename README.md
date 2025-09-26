@@ -45,9 +45,12 @@ contact.html
 ---
 
 ## 🛠️ Tech Stack
-- **HTML5** – Structure and semantic layout.  
-- **CSS3** – Styling, responsiveness, and design.  
-- **JavaScript (optional)** – For interactivity in later phases.  
+- **HTML5** 
+- **CSS3**   
+- **JavaScript**
+- **Notepad++**
+- **chat gpt** - To generate logos.
+
 
 ---
 
