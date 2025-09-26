@@ -59,9 +59,11 @@ contact.html
    ```bash
    git clone https://github.com/YourUsername/web-poe.git
    Open either project folder (magwinya-zone or ubuntu-youth).
+Double-click index.html to open in your browser.
 
 References:
-Double-click index.html to open in your browser.
+
+
 Google Maps (n.d.) Pretoria CBD. [Online] Available at: https://maps.google.com
 
 W3Schools (n.d.) HTML Forms Tutorial. [Online] Available at: https://www.w3schools.com
